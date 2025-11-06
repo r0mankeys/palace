@@ -1,6 +1,5 @@
 /*
-Copyright © 2025 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2025 Roman Acheampong romanacheampong4002@gmai.com 
 */
 package main
 
