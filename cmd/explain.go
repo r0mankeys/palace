@@ -13,7 +13,7 @@ var explainCmd = &cobra.Command{
 	Use:   "explain",
 	Short: "Learn about the Method of Loci and how Palace works",
 	RunE: func(cmd *cobra.Command, args []string) error {
-		return tui.RenderExplainPage()
+		return tui.RunExplainTUI()
 	},
 }
 
