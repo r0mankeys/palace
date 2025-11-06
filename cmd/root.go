@@ -24,6 +24,7 @@ Data Directory: ~/.palace
 Database: ~/.palace/palace.db  
 
 Available commands:
+	explain  Explains the what, why and how of using palace
   create   Create a new memory palace
   list     View your existing palaces
   train    Start a training session
