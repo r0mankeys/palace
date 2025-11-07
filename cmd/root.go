@@ -21,16 +21,7 @@ var rootCmd = &cobra.Command{
 Your personal memory training companion.
 
 Data Directory: ~/.palace  
-Database: ~/.palace/palace.db  
-
-Available commands:
-	explain  Explains the what, why and how of using palace
-  create   Create a new memory palace
-  list     View your existing palaces
-  train    Start a training session
-  stats    View your memory stats
-  export   Export your palace data
-  help     Show command help`,
+Database: ~/.palace/palace.db`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
